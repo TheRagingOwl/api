@@ -1,1 +1,18 @@
-
+ },
+  {
+    "id": "12.il",
+    "name": "12",
+    "alt_names": ["Keshet"],
+    "network": "",
+    "owners": ["Keshet media group"],
+    "country": "IL",
+    "subdivision": IL,
+    "city": "Ramat HaHayal",
+    "categories": ["general"],
+    "is_nsfw": false,
+    "launched": 2017-11-01,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://www.mako.co.il/tv",
+    "logo": ""
+ },
