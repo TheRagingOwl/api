@@ -1,19 +1,21 @@
 [
+  //...
   {
     "id": "12.il",
-    "name": "12",
-    "alt_names": ["Keshet"],
+    "name": "Channel 12",
+    "alt_names": ["Keshet 12"],
     "network": "",
     "owners": ["Keshet media group"],
     "country": "IL",
-    "subdivision": IL,
+    "subdivision": "IL",
     "city": "Ramat HaHayal",
     "categories": ["general"],
     "is_nsfw": false,
-    "launched": 2017-11-01,
-    "closed": null,
-    "replaced_by": null,
+    "launched": "2017-11-01",
+    "closed": "",
+    "replaced_by": "",
     "website": "https://www.mako.co.il/tv",
-    "logo": ""
-  {
-]  
+    "logo": "https://example.com/logo.png"
+  }
+  //...
+]
